@@ -1,0 +1,10 @@
+dependancies : @react-navigation/native
+@react-navigation/drawer
+react-redux
+react-native-ionicons
+react-native-paper
+react-native-pdf
+@react-native-picker/picker
+react-native-reanimated
+react-native-blob-util
+@reduxjs/toolkit
