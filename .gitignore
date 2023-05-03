@@ -1,0 +1,11 @@
+node_modules
+.eslintcache
+.env
+
+# docker mongo files
+docker/certbot-etc
+docker/dhparam
+docker/data
+
+# docker static build
+docker/web-root
